@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/lib/" />
+  <Folder Name="/lib/UAssetAPI/">
+    <Project Path="lib/UAssetAPI/UAssetAPI/UAssetAPI.csproj" />
+  </Folder>
+  <Project Path="UAssetAiBridge/UAssetAiBridge.csproj" />
+</Solution>
