@@ -416,3 +416,10 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Claude Code session data
+.claude/
+
+# Patched test output assets
+*_patched.uasset
+*_patched.uexp

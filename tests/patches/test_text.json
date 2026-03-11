@@ -1,0 +1,5 @@
+{
+  "operation": "set",
+  "path": "content.root.children[name=Main].children[name=GroupTeamNormal].children[name=Panel].children[name=VB].children[name=SizeBox].children[name=HB_Timing].children[name=Text_Hint].properties.text",
+  "value": "Hello from AI"
+}

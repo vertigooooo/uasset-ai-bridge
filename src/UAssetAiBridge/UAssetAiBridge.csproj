@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\lib\UAssetAPI\UAssetAPI\UAssetAPI.csproj" />
+    <ProjectReference Include="..\..\lib\UAssetAPI\UAssetAPI\UAssetAPI.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
